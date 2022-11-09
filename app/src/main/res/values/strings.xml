@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BloodDonationApp</string>
+    <string name="donate">Donate</string>
+    <string name="signup">SignUp</string>
+    <string name="submit">Submit</string>
+    <string name="full_name">Full name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="location">Location</string>
+    <string name="blood_group">Blood group</string>
+    <string name="last_donation_date">Last Donation Date</string>
+    <string name="next_donation_date">Next Donation Date</string>
+    <string name="health_problems">Health problems: </string>
+    <string name="do_you_have_any_health_problems">Do you have any health problems?</string>
+    <string name="health_problems_yes">health problems: Yes</string>
+    <string name="call">make a phone call</string>
+    <string name="donation_days">Donation Days</string>
+</resources>
